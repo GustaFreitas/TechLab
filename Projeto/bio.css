@@ -1,0 +1,16 @@
+h1  {
+    font-size: 60px;
+    
+    background-color: #FF8000;
+    color: #FAFFFA;
+    text-align: center;
+    font-family: "Open Sans Condensed", sans-serif;
+    }
+
+h2  {
+    font-size: 40px
+    font-family: "Open Sans Condensed", sans-serif;
+    }
+p   {
+    font-family: "Crimson Text", sans-serif;
+    }
