@@ -1,5 +1,5 @@
-Projeto Gustavo Luiz de Freitas
+Projeto João da Silva
 
-Projeto HTML/CSS
+HTML/CSS
 
 
