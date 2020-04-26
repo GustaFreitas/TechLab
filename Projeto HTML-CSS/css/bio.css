@@ -1,0 +1,28 @@
+.citacao
+{
+	background-color: #D9E5E3;
+    border-bottom: 10px solid #C2CCCA;
+    padding: 20px;
+    width: 250px;
+    margin: 20px 40px;
+    box-sizing: border-box;
+    border: 10px solid #C2CCCA;
+    border-bottom-color: #333;
+    border-right-color: #FFF;
+}
+
+.jose
+{
+	float: right;
+}
+
+.manoel
+{
+	float: left;
+}
+
+cite
+{
+	font-style: italic;
+	float: right;
+}
